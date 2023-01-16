@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-tryout"
+  site-url: "https://mcint.github.io/nbdev-tryout"
+  description: "First try with nbdev!"
+  repo-branch: main
+  repo-url: "https://github.com/mcint/nbdev-tryout"
