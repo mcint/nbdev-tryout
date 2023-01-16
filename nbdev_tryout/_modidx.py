@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://mcint.github.io',
                 'git_url': 'https://github.com/mcint/nbdev-tryout',
                 'lib_path': 'nbdev_tryout'},
-  'syms': {'nbdev_tryout.core': {'nbdev_tryout.core.foo': ('core.html#foo', 'nbdev_tryout/core.py')}}}
+  'syms': { 'nbdev_tryout.core': { 'nbdev_tryout.core.foo': ('core.html#foo', 'nbdev_tryout/core.py'),
+                                   'nbdev_tryout.core.return_str': ('core.html#return_str', 'nbdev_tryout/core.py')}}}
